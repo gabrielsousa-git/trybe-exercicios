@@ -1,0 +1,29 @@
+h1 {
+    color: orange;
+    font-family: sans-serif;
+    font-style: oblique;
+}
+.cor-favorita {
+    background-color: blue;
+}
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+body{
+    font-size: 16px;
+}
+ul {
+    line-height: 40px;
+    text-align: justify;
+    text-decoration: underline;
+}
+#linha1 {
+    color: yellow;
+}
+#linha2 {
+    color: red;
+}
+#linha3 {
+    color: brown;
+}
